@@ -1,0 +1,14 @@
+C:\Users\54116\source\repos\Autoevaluacion Corte de Control\TP1 Practicos en Consola\TP1 Practicos en Consola\bin\Debug\net6.0\TP1 Practicos en Consola.exe
+C:\Users\54116\source\repos\Autoevaluacion Corte de Control\TP1 Practicos en Consola\TP1 Practicos en Consola\bin\Debug\net6.0\TP1 Practicos en Consola.deps.json
+C:\Users\54116\source\repos\Autoevaluacion Corte de Control\TP1 Practicos en Consola\TP1 Practicos en Consola\bin\Debug\net6.0\TP1 Practicos en Consola.runtimeconfig.json
+C:\Users\54116\source\repos\Autoevaluacion Corte de Control\TP1 Practicos en Consola\TP1 Practicos en Consola\bin\Debug\net6.0\TP1 Practicos en Consola.dll
+C:\Users\54116\source\repos\Autoevaluacion Corte de Control\TP1 Practicos en Consola\TP1 Practicos en Consola\bin\Debug\net6.0\TP1 Practicos en Consola.pdb
+C:\Users\54116\source\repos\Autoevaluacion Corte de Control\TP1 Practicos en Consola\TP1 Practicos en Consola\obj\Debug\net6.0\TP1 Practicos en Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54116\source\repos\Autoevaluacion Corte de Control\TP1 Practicos en Consola\TP1 Practicos en Consola\obj\Debug\net6.0\TP1 Practicos en Consola.AssemblyInfoInputs.cache
+C:\Users\54116\source\repos\Autoevaluacion Corte de Control\TP1 Practicos en Consola\TP1 Practicos en Consola\obj\Debug\net6.0\TP1 Practicos en Consola.AssemblyInfo.cs
+C:\Users\54116\source\repos\Autoevaluacion Corte de Control\TP1 Practicos en Consola\TP1 Practicos en Consola\obj\Debug\net6.0\TP1 Practicos en Consola.csproj.CoreCompileInputs.cache
+C:\Users\54116\source\repos\Autoevaluacion Corte de Control\TP1 Practicos en Consola\TP1 Practicos en Consola\obj\Debug\net6.0\TP1 Practicos en Consola.dll
+C:\Users\54116\source\repos\Autoevaluacion Corte de Control\TP1 Practicos en Consola\TP1 Practicos en Consola\obj\Debug\net6.0\refint\TP1 Practicos en Consola.dll
+C:\Users\54116\source\repos\Autoevaluacion Corte de Control\TP1 Practicos en Consola\TP1 Practicos en Consola\obj\Debug\net6.0\TP1 Practicos en Consola.pdb
+C:\Users\54116\source\repos\Autoevaluacion Corte de Control\TP1 Practicos en Consola\TP1 Practicos en Consola\obj\Debug\net6.0\TP1 Practicos en Consola.genruntimeconfig.cache
+C:\Users\54116\source\repos\Autoevaluacion Corte de Control\TP1 Practicos en Consola\TP1 Practicos en Consola\obj\Debug\net6.0\ref\TP1 Practicos en Consola.dll
